@@ -1,0 +1,48 @@
+*{
+ font-family: cursive;
+
+}
+
+
+.main-content {
+  padding: 50px;
+  text-align: center;
+}
+
+.nav-link-custom {
+  color: white !important;
+}
+
+.navbar-color {
+  background-color:black;
+}
+
+.nav-center {
+  margin-left: 450px;
+}
+
+
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product-card img {
+  height: 250px;
+  object-fit: contain;
+}
+
+
+
+.logo img{
+  width: 180px;
+  margin:5px;
+}
+.nav-links {
+  display: flex;
+  gap: 15px;
+}
+
